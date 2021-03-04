@@ -1,0 +1,42 @@
+
+h1{
+    color: rgb(255, 0, 0);
+}
+p{
+    color: green;    
+}
+/* *{
+   border: solid;
+}*/
+
+.main{
+background-color: rgb(182, 179, 179);
+
+
+}
+
+
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   
+
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+
+}
+p,h2{ 
+    text-align: center;    
+}
+.item{
+  border:solid;
+
+}
